@@ -1,0 +1,14 @@
+{
+    "name": "y7-touch",
+    "description": "Can a touch call for help?",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "main.py"
+    ],
+    "preferredEditor": "pyprj"
+}
